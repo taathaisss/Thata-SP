@@ -1,0 +1,11 @@
+body {
+    color: white;
+    background: radial-gradient(black, red);
+ }
+
+ header {
+    border: solid 1px white;
+    padding: 20px;
+    font-family: "Gupter", serif;
+
+ }
